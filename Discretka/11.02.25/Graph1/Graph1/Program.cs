@@ -13,6 +13,7 @@
             }
 
             Console.WriteLine(Algorithm1(graph, vertexes));
+            Console.WriteLine(Algorithm2(graph, vertexes));
         }
 
         private static List<string> ReadGraph()
@@ -63,18 +64,32 @@
 
         private static int Algorithm2(List<string> graph, List<int> vertexes)
         {
-            int componentsCount = 0;
             List<int> groups = [];
-            int maxGroup = 1;
+            int maxGroup = 0;
 
             for (int i = 0; i < vertexes.Count; i++)
             {
-                for(int j = 0; j < i+1; j++)
+                for(int j = 0; j <= i; j++)
                 {
+                    if (groups.Count < i + 1)
+                    {
+                        maxGroup++;
+                        groups.Add(maxGroup);
+                    }
+
+                    if (graph[i][j] == '1')
+                    {
+                        if (groups[i] > groups[j])
+                        {
+                            groups[i] = groups[j];
+                        }
+                    }
                 }
+
+                maxGroup = groups.Max();
             }
 
-            return componentsCount;
+            return maxGroup;
         }
     }
 }

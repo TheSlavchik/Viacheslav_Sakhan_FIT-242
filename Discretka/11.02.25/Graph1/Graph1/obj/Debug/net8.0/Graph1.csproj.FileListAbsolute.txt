@@ -12,3 +12,18 @@ C:\My\Unik\Graph 1)\Graph1\Graph1\obj\Debug\net8.0\refint\Graph1.dll
 C:\My\Unik\Graph 1)\Graph1\Graph1\obj\Debug\net8.0\Graph1.pdb
 C:\My\Unik\Graph 1)\Graph1\Graph1\obj\Debug\net8.0\Graph1.genruntimeconfig.cache
 C:\My\Unik\Graph 1)\Graph1\Graph1\obj\Debug\net8.0\ref\Graph1.dll
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.02.25\Graph1\Graph1\bin\Debug\net8.0\Graph1.exe
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.02.25\Graph1\Graph1\bin\Debug\net8.0\Graph1.deps.json
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.02.25\Graph1\Graph1\bin\Debug\net8.0\Graph1.runtimeconfig.json
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.02.25\Graph1\Graph1\bin\Debug\net8.0\Graph1.dll
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.02.25\Graph1\Graph1\bin\Debug\net8.0\Graph1.pdb
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.02.25\Graph1\Graph1\obj\Debug\net8.0\Graph1.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.02.25\Graph1\Graph1\obj\Debug\net8.0\Graph1.AssemblyInfoInputs.cache
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.02.25\Graph1\Graph1\obj\Debug\net8.0\Graph1.AssemblyInfo.cs
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.02.25\Graph1\Graph1\obj\Debug\net8.0\Graph1.csproj.CoreCompileInputs.cache
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.02.25\Graph1\Graph1\obj\Debug\net8.0\Graph1.sourcelink.json
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.02.25\Graph1\Graph1\obj\Debug\net8.0\Graph1.dll
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.02.25\Graph1\Graph1\obj\Debug\net8.0\refint\Graph1.dll
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.02.25\Graph1\Graph1\obj\Debug\net8.0\Graph1.pdb
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.02.25\Graph1\Graph1\obj\Debug\net8.0\Graph1.genruntimeconfig.cache
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.02.25\Graph1\Graph1\obj\Debug\net8.0\ref\Graph1.dll

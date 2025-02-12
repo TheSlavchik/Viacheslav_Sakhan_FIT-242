@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\My\\Unik\\Graph 1)\\Graph1\\Graph1\\Graph1.csproj": {}
+    "C:\\My\\UniverGithub\\Viacheslav_Sakhan_FIT-242\\Discretka\\11.02.25\\Graph1\\Graph1\\Graph1.csproj": {}
   },
   "projects": {
-    "C:\\My\\Unik\\Graph 1)\\Graph1\\Graph1\\Graph1.csproj": {
+    "C:\\My\\UniverGithub\\Viacheslav_Sakhan_FIT-242\\Discretka\\11.02.25\\Graph1\\Graph1\\Graph1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My\\Unik\\Graph 1)\\Graph1\\Graph1\\Graph1.csproj",
+        "projectUniqueName": "C:\\My\\UniverGithub\\Viacheslav_Sakhan_FIT-242\\Discretka\\11.02.25\\Graph1\\Graph1\\Graph1.csproj",
         "projectName": "Graph1",
-        "projectPath": "C:\\My\\Unik\\Graph 1)\\Graph1\\Graph1\\Graph1.csproj",
+        "projectPath": "C:\\My\\UniverGithub\\Viacheslav_Sakhan_FIT-242\\Discretka\\11.02.25\\Graph1\\Graph1\\Graph1.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\My\\Unik\\Graph 1)\\Graph1\\Graph1\\obj\\",
+        "outputPath": "C:\\My\\UniverGithub\\Viacheslav_Sakhan_FIT-242\\Discretka\\11.02.25\\Graph1\\Graph1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
