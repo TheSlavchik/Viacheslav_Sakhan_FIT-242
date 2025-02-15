@@ -34,28 +34,35 @@
 
         private static int Algorithm1(List<string> graph, List<int> vertexes)
         {
-            int groupCount = 0;
+            int groupCount = 1;
             List<int> vertexesCopy = new(vertexes);
             List<int> group = [];
 
+            group.Add(vertexesCopy[0]);
+            vertexesCopy.RemoveAt(0);
+            int i = 0;
+
             do
             {
-                group.Add(vertexesCopy[0]);
-                vertexesCopy.RemoveAt(0);
-
-                for (int i = 0; i < group.Count; i++)
+                for (int j = 0; j < vertexes.Count; j++)
                 {
-                    for (int j = 0; j < vertexes.Count; j++)
+                    if (graph[group[i]][j] == '1' && !group.Contains(j))
                     {
-                        if (graph[group[i]][j] == '1' && !group.Contains(j))
-                        {
-                            vertexesCopy.Remove(j);
-                            group.Add(j);
-                        }
+                        vertexesCopy.Remove(j);
+                        group.Add(j);
                     }
                 }
 
-                groupCount++;
+                i++;
+
+                if (i == group.Count)
+                {
+                    group.Clear();
+                    group.Add(vertexesCopy[0]);
+                    vertexesCopy.RemoveAt(0);
+                    groupCount++;
+                    i = 0;
+                }
 
             } while (vertexesCopy.Count > 0);
 
@@ -69,7 +76,7 @@
 
             for (int i = 0; i < vertexes.Count; i++)
             {
-                for(int j = 0; j <= i; j++)
+                for (int j = 0; j <= i; j++)
                 {
                     if (groups.Count < i + 1)
                     {
@@ -79,10 +86,7 @@
 
                     if (graph[i][j] == '1')
                     {
-                        if (groups[i] > groups[j])
-                        {
-                            groups[i] = groups[j];
-                        }
+                        groups[i] = groups[j] = Math.Min(groups[i], groups[j]);
                     }
                 }
 
