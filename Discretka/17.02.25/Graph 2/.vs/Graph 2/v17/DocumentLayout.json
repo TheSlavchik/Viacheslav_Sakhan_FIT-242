@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My\\UniverGithub\\Viacheslav_Sakhan_FIT-242\\Discretka\\17.02.25\\Graph 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3F6CE3-9B4E-4B0D-81ED-FA0D5BFE6FAD}|Graph 2\\Graph 2.csproj|c:\\my\\univergithub\\viacheslav_sakhan_fit-242\\discretka\\17.02.25\\graph 2\\graph 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3F6CE3-9B4E-4B0D-81ED-FA0D5BFE6FAD}|Graph 2\\Graph 2.csproj|solutionrelative:graph 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\My\\UniverGithub\\Viacheslav_Sakhan_FIT-242\\Discretka\\17.02.25\\Graph 2\\Graph 2\\Program.cs",
+              "RelativeDocumentMoniker": "Graph 2\\Program.cs",
+              "ToolTip": "C:\\My\\UniverGithub\\Viacheslav_Sakhan_FIT-242\\Discretka\\17.02.25\\Graph 2\\Graph 2\\Program.cs",
+              "RelativeToolTip": "Graph 2\\Program.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAIwGoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:45:09.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
