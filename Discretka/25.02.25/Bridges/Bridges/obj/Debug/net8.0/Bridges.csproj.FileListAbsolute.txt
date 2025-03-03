@@ -1,0 +1,15 @@
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\25.02.25\Bridges\Bridges\bin\Debug\net8.0\Bridges.exe
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\25.02.25\Bridges\Bridges\bin\Debug\net8.0\Bridges.deps.json
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\25.02.25\Bridges\Bridges\bin\Debug\net8.0\Bridges.runtimeconfig.json
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\25.02.25\Bridges\Bridges\bin\Debug\net8.0\Bridges.dll
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\25.02.25\Bridges\Bridges\bin\Debug\net8.0\Bridges.pdb
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\25.02.25\Bridges\Bridges\obj\Debug\net8.0\Bridges.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\25.02.25\Bridges\Bridges\obj\Debug\net8.0\Bridges.AssemblyInfoInputs.cache
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\25.02.25\Bridges\Bridges\obj\Debug\net8.0\Bridges.AssemblyInfo.cs
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\25.02.25\Bridges\Bridges\obj\Debug\net8.0\Bridges.csproj.CoreCompileInputs.cache
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\25.02.25\Bridges\Bridges\obj\Debug\net8.0\Bridges.sourcelink.json
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\25.02.25\Bridges\Bridges\obj\Debug\net8.0\Bridges.dll
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\25.02.25\Bridges\Bridges\obj\Debug\net8.0\refint\Bridges.dll
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\25.02.25\Bridges\Bridges\obj\Debug\net8.0\Bridges.pdb
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\25.02.25\Bridges\Bridges\obj\Debug\net8.0\Bridges.genruntimeconfig.cache
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\25.02.25\Bridges\Bridges\obj\Debug\net8.0\ref\Bridges.dll

@@ -1,0 +1,15 @@
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\03.03.25\Deikstra\Deikstra\bin\Debug\net8.0\Deikstra.exe
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\03.03.25\Deikstra\Deikstra\bin\Debug\net8.0\Deikstra.deps.json
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\03.03.25\Deikstra\Deikstra\bin\Debug\net8.0\Deikstra.runtimeconfig.json
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\03.03.25\Deikstra\Deikstra\bin\Debug\net8.0\Deikstra.dll
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\03.03.25\Deikstra\Deikstra\bin\Debug\net8.0\Deikstra.pdb
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\03.03.25\Deikstra\Deikstra\obj\Debug\net8.0\Deikstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\03.03.25\Deikstra\Deikstra\obj\Debug\net8.0\Deikstra.AssemblyInfoInputs.cache
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\03.03.25\Deikstra\Deikstra\obj\Debug\net8.0\Deikstra.AssemblyInfo.cs
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\03.03.25\Deikstra\Deikstra\obj\Debug\net8.0\Deikstra.csproj.CoreCompileInputs.cache
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\03.03.25\Deikstra\Deikstra\obj\Debug\net8.0\Deikstra.sourcelink.json
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\03.03.25\Deikstra\Deikstra\obj\Debug\net8.0\Deikstra.dll
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\03.03.25\Deikstra\Deikstra\obj\Debug\net8.0\refint\Deikstra.dll
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\03.03.25\Deikstra\Deikstra\obj\Debug\net8.0\Deikstra.pdb
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\03.03.25\Deikstra\Deikstra\obj\Debug\net8.0\Deikstra.genruntimeconfig.cache
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\03.03.25\Deikstra\Deikstra\obj\Debug\net8.0\ref\Deikstra.dll
