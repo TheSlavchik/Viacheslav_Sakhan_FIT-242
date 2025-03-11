@@ -1,0 +1,15 @@
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.03.25\MinDistance\MinDistance\bin\Debug\net8.0\MinDistance.exe
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.03.25\MinDistance\MinDistance\bin\Debug\net8.0\MinDistance.deps.json
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.03.25\MinDistance\MinDistance\bin\Debug\net8.0\MinDistance.runtimeconfig.json
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.03.25\MinDistance\MinDistance\bin\Debug\net8.0\MinDistance.dll
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.03.25\MinDistance\MinDistance\bin\Debug\net8.0\MinDistance.pdb
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.03.25\MinDistance\MinDistance\obj\Debug\net8.0\MinDistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.03.25\MinDistance\MinDistance\obj\Debug\net8.0\MinDistance.AssemblyInfoInputs.cache
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.03.25\MinDistance\MinDistance\obj\Debug\net8.0\MinDistance.AssemblyInfo.cs
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.03.25\MinDistance\MinDistance\obj\Debug\net8.0\MinDistance.csproj.CoreCompileInputs.cache
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.03.25\MinDistance\MinDistance\obj\Debug\net8.0\MinDistance.sourcelink.json
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.03.25\MinDistance\MinDistance\obj\Debug\net8.0\MinDistance.dll
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.03.25\MinDistance\MinDistance\obj\Debug\net8.0\refint\MinDistance.dll
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.03.25\MinDistance\MinDistance\obj\Debug\net8.0\MinDistance.pdb
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.03.25\MinDistance\MinDistance\obj\Debug\net8.0\MinDistance.genruntimeconfig.cache
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\11.03.25\MinDistance\MinDistance\obj\Debug\net8.0\ref\MinDistance.dll
