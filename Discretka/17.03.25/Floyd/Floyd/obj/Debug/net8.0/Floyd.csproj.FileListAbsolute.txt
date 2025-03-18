@@ -1,0 +1,15 @@
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\17.03.25\Floyd\Floyd\bin\Debug\net8.0\Floyd.exe
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\17.03.25\Floyd\Floyd\bin\Debug\net8.0\Floyd.deps.json
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\17.03.25\Floyd\Floyd\bin\Debug\net8.0\Floyd.runtimeconfig.json
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\17.03.25\Floyd\Floyd\bin\Debug\net8.0\Floyd.dll
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\17.03.25\Floyd\Floyd\bin\Debug\net8.0\Floyd.pdb
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\17.03.25\Floyd\Floyd\obj\Debug\net8.0\Floyd.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\17.03.25\Floyd\Floyd\obj\Debug\net8.0\Floyd.AssemblyInfoInputs.cache
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\17.03.25\Floyd\Floyd\obj\Debug\net8.0\Floyd.AssemblyInfo.cs
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\17.03.25\Floyd\Floyd\obj\Debug\net8.0\Floyd.csproj.CoreCompileInputs.cache
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\17.03.25\Floyd\Floyd\obj\Debug\net8.0\Floyd.sourcelink.json
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\17.03.25\Floyd\Floyd\obj\Debug\net8.0\Floyd.dll
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\17.03.25\Floyd\Floyd\obj\Debug\net8.0\refint\Floyd.dll
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\17.03.25\Floyd\Floyd\obj\Debug\net8.0\Floyd.pdb
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\17.03.25\Floyd\Floyd\obj\Debug\net8.0\Floyd.genruntimeconfig.cache
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\17.03.25\Floyd\Floyd\obj\Debug\net8.0\ref\Floyd.dll
