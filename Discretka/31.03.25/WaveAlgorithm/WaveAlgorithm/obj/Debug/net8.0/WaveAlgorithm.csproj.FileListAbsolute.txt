@@ -1,0 +1,15 @@
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\31.03.25\WaveAlgorithm\WaveAlgorithm\bin\Debug\net8.0\WaveAlgorithm.exe
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\31.03.25\WaveAlgorithm\WaveAlgorithm\bin\Debug\net8.0\WaveAlgorithm.deps.json
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\31.03.25\WaveAlgorithm\WaveAlgorithm\bin\Debug\net8.0\WaveAlgorithm.runtimeconfig.json
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\31.03.25\WaveAlgorithm\WaveAlgorithm\bin\Debug\net8.0\WaveAlgorithm.dll
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\31.03.25\WaveAlgorithm\WaveAlgorithm\bin\Debug\net8.0\WaveAlgorithm.pdb
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\31.03.25\WaveAlgorithm\WaveAlgorithm\obj\Debug\net8.0\WaveAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\31.03.25\WaveAlgorithm\WaveAlgorithm\obj\Debug\net8.0\WaveAlgorithm.AssemblyInfoInputs.cache
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\31.03.25\WaveAlgorithm\WaveAlgorithm\obj\Debug\net8.0\WaveAlgorithm.AssemblyInfo.cs
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\31.03.25\WaveAlgorithm\WaveAlgorithm\obj\Debug\net8.0\WaveAlgorithm.csproj.CoreCompileInputs.cache
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\31.03.25\WaveAlgorithm\WaveAlgorithm\obj\Debug\net8.0\WaveAlgorithm.sourcelink.json
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\31.03.25\WaveAlgorithm\WaveAlgorithm\obj\Debug\net8.0\WaveAlgorithm.dll
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\31.03.25\WaveAlgorithm\WaveAlgorithm\obj\Debug\net8.0\refint\WaveAlgorithm.dll
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\31.03.25\WaveAlgorithm\WaveAlgorithm\obj\Debug\net8.0\WaveAlgorithm.pdb
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\31.03.25\WaveAlgorithm\WaveAlgorithm\obj\Debug\net8.0\WaveAlgorithm.genruntimeconfig.cache
+C:\My\UniverGithub\Viacheslav_Sakhan_FIT-242\Discretka\31.03.25\WaveAlgorithm\WaveAlgorithm\obj\Debug\net8.0\ref\WaveAlgorithm.dll

@@ -19,7 +19,7 @@
             Floyd(graph, graph.Count);
             Console.WriteLine();
 
-            for (int i = 0; i < graph.Count; i++)
+            /*for (int i = 0; i < graph.Count; i++)
             {
                 for (int j = 0; j < graph.Count; j++)
                 {
@@ -27,7 +27,7 @@
                 }
 
                 Console.WriteLine();
-            }
+            }*/
         }
 
         private static List<int[]> ReadGraph()
@@ -65,6 +65,18 @@
 
         private static List<int[]> Floyd(List<int[]> graph, int vertexesCount) 
         {
+            for (int i = 0; i < graph.Count; i++)
+            {
+                for (int j = 0; j < graph.Count; j++)
+                {
+                    Console.Write($"{graph[i][j]} ");
+                }
+
+                Console.WriteLine();
+            }
+
+            Console.WriteLine();
+
             for (int k = 0; k < vertexesCount; k++)
             {
                 for (int j = 0; j < vertexesCount; j++)
@@ -77,6 +89,18 @@
                         }
                     }
                 }
+
+                for (int i = 0; i < graph.Count; i++)
+                {
+                    for (int j = 0; j < graph.Count; j++)
+                    {
+                        Console.Write($"{graph[i][j]} ");
+                    }
+
+                    Console.WriteLine();
+                }
+
+                Console.WriteLine();
             } 
 
             return graph;
